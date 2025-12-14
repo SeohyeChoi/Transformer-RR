@@ -1,10 +1,12 @@
-Jupyter notebook for Transformer encoder model
+(Transformer-RR.ipynb) Jupyter notebook for Transformer encoder model
 
 
 
-Jupyter notebook for LSTM model
+(LSTM-RR.ipynb) Jupyter notebook for LSTM model
 
 
+
+(data)
 
 Data for nine karst and nine non-karst watersheds
 
@@ -33,4 +35,8 @@ non-karst
 9	Headwater Weber River
 
 
+
+(reference)
+
+Choi, S., Tennant, H., Hill, D., Neilson, B., Newell, D., Ashmead, N., McNamara, J., \& Xu, T. (2025). Transformer Encoder for Rainfall-Runoff Modeling in Karst and Non-Karst Watersheds. Zenodo. https://doi.org/10.5281/zenodo.17924875
 
