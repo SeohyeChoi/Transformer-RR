@@ -40,7 +40,7 @@ The third dimension represents variables: streamflow (m/d), snowmelt plus rain (
 
 
 
-(reference)
+Reference
 
 Choi, S., Tennant, H., Hill, D., Neilson, B., Newell, D., Ashmead, N., McNamara, J., \& Xu, T. (2025). Transformer Encoder for Rainfall-Runoff Modeling in Karst and Non-Karst Watersheds. Zenodo. https://doi.org/10.5281/zenodo.17924875
 
